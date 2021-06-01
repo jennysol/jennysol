@@ -12,4 +12,4 @@ I'm Jennifer Soliver, a 19-year-old developer enthusiast who does front-end deve
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=jennysol&show_icons=true&theme=dark)
 
-⭐️ From [AkhilGKrishnan](https://github.com/jennysol)
+⭐️ From [Jennifer Soliver](https://github.com/jennysol)
