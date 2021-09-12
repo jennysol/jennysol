@@ -8,5 +8,3 @@ I'm Jennifer Soliver, a 19-year-old developer enthusiast who does front-end deve
 
 <!--- 🔭 I’m currently working on [Facemask Detector](https://github.com/AkhilGKrishnan/Face-Mask-Detector)-->
 
-
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=jennysol&show_icons=true&theme=dark)
