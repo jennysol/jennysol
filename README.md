@@ -1,6 +1,11 @@
 
 ### Hi there I'm [Jennifer Soliver!](https://www.linkedin.com/in/jennifer-oliveira-876a0a1a4/)👋
 I'm Jennifer Soliver, a 19-year-old developer enthusiast who does front-end development among other adventures. Passionate about contributing to projects and making cool products<br>
+
+<a href="https://github.com/jennysol/github-readme-stats">
+  <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennysol&hide=jupyter%20notebook,html&layout=compact&theme=light" />
+</a><br><br><br><br><br><br><br>
+
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jennifer-oliveira-876a0a1a4/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/jennysol)
 <!--
