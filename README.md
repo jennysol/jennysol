@@ -1,6 +1,6 @@
 
 ### Hi there I'm [Jennifer Soliver!](https://www.linkedin.com/in/jennifer-oliveira-876a0a1a4/)👋
-I'm Jennifer Soliver, a 19-year-old developer enthusiast who does front-end development among other adventures. Passionate about contributing to projects and making cool products<br>
+Hello! I am Jennifer, a Computer Science student, FullStack Developer, and someone willing to help. I work with various technologies, especially JavaScript/TypeScript (Vue.js and React) and Ruby (Ruby on Rails). Currently, I am expanding my knowledge in FullStack development, UX Design, and agile methodologies.
 
 <a href="https://github.com/jennysol/github-readme-stats">
   <img align="left" height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennysol&hide=jupyter%20notebook,html&layout=compact&theme=light" />
